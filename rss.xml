@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Corelab - Social Change Workshop]]></title>
         <description><![CDATA[Corelab - Social Change Workshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corelab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:53:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 12:07:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corelab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Tale of Two Flags]]></title>
+            <description><![CDATA[<article><h1>A Tale of Two Flags</h1><p>The past three weeks of campaigning in the U.S. have been dominated by symbols. One, a symbol of racism, hatred and intolerance. The other, unity, inclusiveness and acceptance. The rainbow flag of gay pride rose high and took over all your friends' Facebook profile photos. The confederate flag went from hotly debated "Southern heritage," to an unacceptable (and un-sellable) relic of racism. Massive corporations were updating their websites with rainbow logos while simultaneously removing Confederate flag products.  Some activists have rightly cautioned against drawing direct parallels, but the conclusion we can draw is that symbols, icons, brand marks matter. The important progressive change-driving groups of our era are lacking this vital component of their identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/766a3e7385aa6abb0a954e83877d9b0966c750c5.png"></article>]]></description>
+            <link>http://ideas.corelab.co/a-tale-of-two-flags/</link>
+            <guid isPermaLink="false">38ba2298-e307-46eb-811e-b1bc20fe69bd</guid>
+            <pubDate>Sun, 17 Jan 2016 12:07:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corelab is a social change workshop that drives and strengthens worthwhile initiatives.Working with leading technologists, communicators, innovators and organizations, Corelab creates original projects or bolsters existing ones to help those who want to do good do it better.]]></title>
             <description><![CDATA[<article><h1>Corelab is a social change workshop that drives and strengthens worthwhile initiatives.Working with leading technologists, communicators, innovators and organizations, Corelab creates original projects or bolsters existing ones to help those who want to do good do it better.</h1><p>Corelab is a social change workshop that works with world-changing organizations.</p></article>]]></description>
-            <link>undefinedwhat-we-do/index.html</link>
+            <link>https://thegrid.ai/corelab/what-we-do/index.html</link>
             <guid isPermaLink="false">056b0f9d-1ac9-4a8a-a1e7-e35d0934dd33</guid>
             <pubDate>Sun, 17 Jan 2016 11:53:24 GMT</pubDate>
         </item>
