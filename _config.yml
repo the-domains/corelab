@@ -1,6 +1,6 @@
 name: Corelab
 favicon: null
-layout_spectrum: 0.7884108272846788
+layout_spectrum: 0.00459
 typography_spectrum: 0.5905547318980098
 title: Corelab - Social Change Workshop
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2581bc'
+    - '#0a4167'
+    - '#ffffff'
+    - '#0000ff'
+    - '#000000'
   brandStrength: 0.26056488370522857
   lightness: 0.36077321670018137
   saturation: 0.30499530932866037
